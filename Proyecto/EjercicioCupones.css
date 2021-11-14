@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(6, 6, 34);
+}
+
+.Titulo{
+    background-color: rgb(14, 23, 66);
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Subtitulo{
+    font-size: 25px;
+    text-align: center;
+    border-color: white;
+    border-style: solid;
+    border-left-width: 70px;
+    border-left-color: rgb(6, 6, 34);
+    border-right-width: 70px;
+    border-right-color: rgb(6, 6, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: rgb(14, 23, 66);
+}
+
+.DiseñoFondo{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(14, 23, 66);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left-width: 70px;
+    border-left-style: solid;
+    border-left-color: rgb(6, 6, 34);
+    border-right-width: 70px;
+    border-right-style: solid;
+    border-right-color: rgb(6, 6, 34);
+}
+
+.margen1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.boton{
+    width: 350px;
+    height: 70px;
+    font-size: 25px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color: rgb(14, 23, 66);
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 40px;
+}
+
+footer{
+    font-size: 15px;
+    background-color:  rgb(6, 6, 34);
+    text-align: center;
+    color: white;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Regresar{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(14, 23, 66);
+    border-color: white;
+    border-style: solid;
+    color: white;
+    margin-left: 703px;
+    margin-top: 20px;
+}

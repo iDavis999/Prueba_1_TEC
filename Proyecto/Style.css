@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(13, 19, 54);
+}
+
+header{
+    background-color: rgb(13, 19, 54);
+    
+}
+
+.Titulo{
+    text-align: center;
+    font-size: 110px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(226, 198, 43);
+}
+
+.Titulo2{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(226, 198, 43);
+    font-style:oblique;
+}
+
+main .Figuras{
+   
+    width: 400px;
+    height: 350px;
+    background: url(/img/Figuras.png);
+    background-size: 35%, 35%;
+    background-position:top;
+    border-color: rgb(226, 198, 43);
+    border-radius: 20px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-width: 7px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    font-style:oblique;
+}
+
+
+
+main .Porcentajes{
+    width: 400px;
+    height: 350px;
+    background: url(/img/Porcentaje.png);
+    background-size: 35%, 35%;
+    background-position:top;
+    border-color: rgb(226, 198, 43);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-width: 7px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    font-style:oblique;
+}
+
+main .Moda{
+    width: 400px;
+    height: 350px;
+    background: url(/img/Estadistica.png);
+    background-size: 35%, 35%;
+    background-position:top;
+    border-color: rgb(226, 198, 43);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-width: 7px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-repeat: no-repeat;
+    font-style:oblique;
+}
+
+
